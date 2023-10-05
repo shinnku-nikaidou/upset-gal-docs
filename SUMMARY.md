@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Table of contents
 
 * [Page](README.md)
@@ -6,10 +10,6 @@
 
 * [Page 1](encyclopaedia/page-1.md)
 * [Page 2](encyclopaedia/page-2.md)
-
-## blogs
-
-* [Page 3](blogs/page-3.md)
 
 ## instructions
 
