@@ -13,6 +13,7 @@ sidebar_position: 1
 小站会尽自己的能力, 造福广大的用户.
 
 > 小站可能会倒闭, 但绝对不会变质 -- by 红妈
+
 # Plan
 
 ## Galgame补全计划 II (进行中)
